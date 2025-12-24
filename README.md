@@ -1,50 +1,42 @@
-## 📊 Análise dos Gastos da CEAPS — Senado Federal (2022)
+# 📊 Análise dos Gastos da CEAPS — Senado Federal (2022)
 
-### 🎯 Contexto
+## 🎯 Contexto
 A CEAPS é a cota utilizada pelos senadores para custear despesas ligadas ao exercício do mandato.
 Este projeto analisa os gastos realizados em 2022 com o objetivo de identificar padrões,
 concentração de despesas e comportamento ao longo do tempo.
 
-###  📌 Objetivo
-
+##  📌 Objetivo
 Analisar e visualizar os gastos parlamentares da CEAPS com o objetivo de identificar:
-
 - Concentração de despesas  
 - Sazonalidade ao longo do ano  
 - Presença de outliers  
 - Principais categorias de gasto  
 
-### 🛠️ Ferramentas
-
+## 🛠️ Ferramentas
 - Python  
 - pandas  
 - Plotly  
 - Jupyter Notebook  
 
-### 🔍 Etapas do Projeto
-
+## 🔍 Etapas do Projeto
 - Coleta de dados públicos  
 - Tratamento de dados inconsistentes  
 - Análise exploratória dos dados  
 - Visualização interativa  
 - Construção de narrativa orientada a dados  
 
-### 📊 Resultados
-
+## 📊 Resultados
 - Identificação de senadores com gastos acima da média  
 - Visualização clara da distribuição dos gastos  
 - Geração de insights relevantes sobre o uso de recursos públicos  
 
-### 🌍 Impacto
-
+## 🌍 Impacto
 Projeto desenvolvido com foco em:
-
 - Transparência pública  
 - Data storytelling  
 - Análise crítica baseada em dados reais  
 
-
-### 🧠 Conclusão
+## 🧠 Conclusão
 A análise evidencia como dados públicos permitem identificar padrões relevantes de uso de recursos,
 contribuindo para maior transparência e interpretação baseada em evidências.
 
